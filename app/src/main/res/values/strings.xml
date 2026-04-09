@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloToast</string>
+    <string name="_0">0</string>
+    <string name="afficher_un_message">Afficher un message</string>
+    <string name="incr_menter_le_compteur">Incrémenter le compteur</string>
+    <string name="compteur">compteur</string>
+</resources>
