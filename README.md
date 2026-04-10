@@ -6,11 +6,12 @@ Une application Android simple démontrant l'utilisation des **messages Toast** 
 
 ## Démonstration vidéo
 
-<!-- Remplace ce bloc par ta vidéo après l'avoir uploadée sur GitHub ou YouTube -->
 
-https://github.com/TON_USERNAME/TON_REPO/assets/TON_ID/ta-video.mp4
+https://github.com/user-attachments/assets/ef3f55a7-3985-4afc-b877-21eaf40cf712
 
-> Pour ajouter ta vidéo : va sur GitHub → ouvre une Issue → glisse ta vidéo dedans → copie le lien généré → colle-le ici à la place du lien ci-dessus.
+
+
+
 
 [Running Devices - HelloToast 2026-04-09 22-02-37.zip](https://github.com/user-attachments/files/26614821/Running.Devices.-.HelloToast.2026-04-09.22-02-37.zip)
 
